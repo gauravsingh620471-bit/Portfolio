@@ -1,4 +1,4 @@
-https://gauravkumarsingh.netlify.app/
+https://gauravsingh-83b457.netlify.app
 ## 👋 About Me
 
 Hi, I'm **Gaurav Kumar Singh**, a passionate **Full Stack Developer and AI/ML Enthusiast** pursuing B.Tech in Computer Science Engineering at **IILM University, Greater Noida**.
